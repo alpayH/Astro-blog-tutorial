@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: My Fifth Blog Post
 author: Alpay Hasanli
 description: "Just enjoying a coffee session with my co-founder"
